@@ -338,9 +338,8 @@ The dataset and project inspiration are credited to the **"Data with Baraa"** Yo
 
 ## 📌 Author
 **Zeus Mark Fernandes**  
-Data Analyst | SQL | Power BI | Analytics Engineering
+Data Analyst | SQL | Power BI | Analytics
 
 ---
 
-⭐ If you found this project useful, feel free to star the repository!
 
